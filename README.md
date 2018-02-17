@@ -13,8 +13,7 @@ Brian Milvain
 We had to add three more expenses to the expense calculator, then amke sure that the calculations were correct and also that you could zero out the values.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://bmilvain.github.io/-lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
 1. I learned to be very careful with your spelling. Missing a "T" in the word Transportation caused havoc.
